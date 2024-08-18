@@ -1,4 +1,4 @@
 variable "admin_email" {
     type = string
-    default = "vlo@atlant.io"
+    description = "Email to be registered on LetsEncrypt"
 }
